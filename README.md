@@ -11,6 +11,7 @@ Akshay Gupta akshaysngupta@gmail.com
 Nishant Nikhil nishantiam@gmail.com  
 Sanyam Agarwal sanyam.agarwal94@gmail.com  
 Soumyadeep Mukherjee soumyadeep9@gmail.com  
-Sourish Ghosh ragnarok0211@gmail.com  
+Sourish Ghosh ragnarok0211@gmail.com 
 Vaibhav Agarwal vaiagarwal96@gmail.com  
+Vaishal Shah vaishalhshah3@gmail.com
 
